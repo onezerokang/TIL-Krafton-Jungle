@@ -17,3 +17,7 @@
 ## 4월 6일
 
 - [코드업 기초 100제 복기](/Python/0406.md)
+
+## 4월 7일
+
+- [List Comprehension](/Python/0407.md)
