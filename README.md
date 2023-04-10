@@ -21,3 +21,7 @@
 ## 4월 7일
 
 - [List Comprehension](/Python/0407.md)
+
+## 4월 10일
+
+- [이진탐색](/Python/0410.md)
